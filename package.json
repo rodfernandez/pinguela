@@ -1,0 +1,32 @@
+{
+    "author": "Rodrigo Fernandez <rodrigo@fnnd.es> (fnnd.es)",
+    "bugs": {
+        "url": "https://github.com/rodfernandez/pinguela/issues"
+    },
+    "dependencies": {
+        "lodash": "2.4.1",
+        "nedb": "0.10.5",
+        "peer-upnp": "git://github.com/COLTRAM/peer-upnp#2a94d62ceecfe7cc304f01e553d2a1efe789f89c",
+        "pinguela-client":"git://github.com/rodfernandez/pinguela-client",
+        "pretty-data": "0.40.0",
+        "request": "2.34.0",
+        "response": "0.14.0",
+        "socket.io": "0.9.16"
+    },
+    "description": "",
+    "devDependencies": {
+        "grunt": "0.4.4"
+    },
+    "license": "MIT",
+    "main": "index.js",
+    "name": "pinguela",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rodfernandez/pinguela.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "0.0.1"
+}
