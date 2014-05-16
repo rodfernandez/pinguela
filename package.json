@@ -20,7 +20,6 @@
     "license": "MIT",
     "main": "index.js",
     "name": "pinguela",
-    "private": true,
     "repository": {
         "type": "git",
         "url": "git://github.com/rodfernandez/pinguela.git"
