@@ -69,7 +69,7 @@ server.listen(80);
 
 ### Client-side
 
-```javascript
+```html
 <script src="/pinguela/pinguela.js" type="application/javascript"></script>
 
 <script type="application/javascript">
