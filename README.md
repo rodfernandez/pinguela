@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/rodfernandez/pinguela.png?label=ready&title=Ready)](https://waffle.io/rodfernandez/pinguela)
 # pinguela
 
 This library intends to provide an interface compatible with the [W3C Network Service Discovery Working Draft 20 February 2014](http://www.w3.org/TR/2014/WD-discovery-api-20140220/) that could be used with current and past browsers.
