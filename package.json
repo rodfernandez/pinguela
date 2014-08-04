@@ -7,15 +7,18 @@
         "lodash": "2.4.1",
         "nedb": "0.10.5",
         "peer-upnp": "git://github.com/COLTRAM/peer-upnp#2a94d62ceecfe7cc304f01e553d2a1efe789f89c",
-        "pinguela-client":"git://github.com/rodfernandez/pinguela-client#0.0.2",
+        "pinguela-client": "git://github.com/rodfernandez/pinguela-client#0.0.3",
         "pretty-data": "0.40.0",
         "request": "2.34.0",
         "response": "0.14.0",
         "socket.io": "0.9.16"
     },
-    "description": "",
+    "description": "This library intends to provide an interface compatible with the W3C Network Service Discovery Working Draft (20 February 2014) that could be used with current and past browsers.",
     "devDependencies": {
         "grunt": "0.4.4"
+    },
+    "engines": {
+        "node": ">= 0.10.0"
     },
     "license": "MIT",
     "main": "index.js",
@@ -27,5 +30,5 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.0.2"
+    "version": "0.0.3"
 }
