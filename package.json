@@ -7,7 +7,7 @@
         "lodash": "2.4.1",
         "nedb": "0.10.5",
         "peer-upnp": "git://github.com/COLTRAM/peer-upnp#2a94d62ceecfe7cc304f01e553d2a1efe789f89c",
-        "pinguela-client": "git://github.com/rodfernandez/pinguela-client#0.0.3",
+        "pinguela-client": "git://github.com/rodfernandez/pinguela-client#0.0.4",
         "pretty-data": "0.40.0",
         "request": "2.34.0",
         "response": "0.14.0",
