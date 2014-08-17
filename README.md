@@ -20,7 +20,7 @@ var pinguela = new Pinguela({
     server: server
 });
 
-server.listen(80);
+server.listen(8000);
 ```
 
 #### Using with a framework
@@ -64,7 +64,7 @@ var pinguela = new Pinguela({
     server: server
 });
 
-server.listen(80);
+server.listen(8000);
 ```
 
 ### Client-side
